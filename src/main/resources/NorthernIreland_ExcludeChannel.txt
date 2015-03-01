@@ -1,0 +1,9 @@
+^.*(?<!Northern) Ireland(?: \+1){0,1}$
+^.*(?<!Northern) Ireland(?: \(UK\)){0,1}$
+.* in Pubs.*
+^Sky Movies Box Office.*
+^Psychic Today.*$
+SET UK \+1
+Masti Chat.*
+FlirtXchange.*
+Cruzr.*

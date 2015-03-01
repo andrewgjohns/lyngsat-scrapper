@@ -1,0 +1,54 @@
+101|BBC One Northern Ireland
+102|BBC Two Northern Ireland
+161|RTÉ One
+162|RTÉ Two
+163|TV 3 (Ireland)
+164|TG 4
+165|3
+168|Challenge UK +1
+169|Fox UK +1
+628|Pop
+952|BBC One Wales
+953|BBC One Scotland
+1000|ITV Central East
+1001|ITV Yorkshire East
+1002|ITV Meridian North
+1003|ITV Tyne Tees
+1004|ITV Granada
+1005|STV West
+1006|ITV Wales
+1007|ITV Central West
+1008|Channel TV
+1009|ITV Yorkshire West
+1010|ITV Anglia East
+1011|ITV Westcountry West
+1012|ITV Meridian South East
+1013|ITV Meridian South
+1014|ITV Central South
+1015|STV North
+1016|ITV Border
+1017|STV East
+1018|ITV Central South West
+1019|ITV Anglia West
+1020|ITV Westcountry South West
+1021|ITV Westcountry South West +1
+1022|ITV Tyne Tees +1
+1023|ITV Central West +1
+1024|ITV London +1
+1025|ITV Yorkshire West +1
+1026|ITV Westcountry West +1
+1027|ITV Meridian South East +1
+1028|ITV Wales +1
+1029|ITV Anglia East +1
+1034|Channel 4 North
+1035|Channel 4 Midlands
+1036|Channel 4 Scotland
+1037|Channel 4 South & East
+1038|Channel 4 South & East +1
+1039|Channel 4 Midlands +1
+1040|Channel 4 Scotland +1
+1041|Channel 4 North +1
+1045|Channel 5 Region 5
+1046|Channel 5 Region 1
+1047|Channel 5 Region 3
+1048|Channel 5 Region 2
